@@ -119,6 +119,129 @@ Si tu tesis es sobre Cafeína o Curcumina, igualmente esta lista te sirve (solo 
 **"Para la ejecución del proceso de purificación se requiere un total de 18 reactivos y consumibles específicos, sumado a 9 equipos de medición y 5 elementos de seguridad activa. Todos los solventes son grado ACS con pureza ≥99.5%, los filtros son de membrana PTFE 0.22 µm y la atmósfera de trabajo se controla mediante gas nitrógeno UHP para evitar degradación oxidativa. La vidriería es de borosilicato para soportar golpes térmicos, y los guantes son de neopreno por su resistencia a ésteres e hidrocarburos."**
 
 ---
+---
+---
+---
+---
+---
+---
+---
+---
+---
+¡Excelente pregunta! En el documento anterior mencioné **cuatro compuestos modelo** (Ácido Benzoico, Cafeína, Curcumina y Resveratrol), pero para que tu tesis sea aún más sólida y completa, es fundamental detallar **los materiales extras, específicos y críticos** que se necesitan **para cada una de esas sustancias**, ya que no se purifican igual ni con los mismos insumos.
+
+Aquí tienes la **ampliación completa de materiales, reactivos y consumibles específicos** para cada sustancia, incluyendo aditivos, adsorbentes, gases inertes y materiales de filtración especializados que no incluí en el presupuesto base.
+
+---
+
+## 🧪 AMPLIACIÓN DE MATERIALES POR SUSTANCIA (Específicos)
+
+### 1. 🧊 ÁCIDO BENZOICO (C₇H₆O₂)
+*Es el más sencillo y económico. Se purifica con agua.*
+
+| Material/Insumo Extras | Especificación | Función Crítica |
+| :--- | :--- | :--- |
+| **Agua destilada** | Grado HPLC o Tipo I | Solvente principal (barato y eficaz). |
+| **Carbón activado** | Grado decolorante (polvo fino) | Solo si la materia prima viene muy amarilla (elimina impurezas coloreadas). |
+| **Papel filtro** | Grado cualitativo (poro 12-15 µm) | Para filtración en caliente (no necesita poro muy fino). |
+| **Cristalizador** | De fondo plano y borde esmerilado | Para dejar reposar los cristales sin tapón (crecen mejor). |
+
+---
+
+### 2. ☕ CAFEÍNA (C₈H₁₀N₄O₂)
+*Requiere solventes orgánicos y control de humedad.*
+
+| Material/Insumo Extras | Especificación | Función Crítica |
+| :--- | :--- | :--- |
+| **Cloroformo** (o Diclorometano) | Grado ACS >99.5% | Excelente solubilidad en caliente, pero **tóxico** (requiere campana de gases sí o sí). |
+| **Sulfato de sodio anhidro** | Grado analítico | Se usa para secar la fase orgánica si se hace extracción líquido-líquido previa. |
+| **Celite (Tierra de diatomeas)** | Grado filtrante | Se coloca sobre el papel filtro para adsorber aceites y ceras naturales del café/granos. |
+| **Viales ámbar de 10 mL** | Con tapa de rosca y septo | La cafeína sublima ligeramente; el envase ámbar protege de la luz UV. |
+| **Gel de sílice** | Indicador de humedad (naranja/verde) | Para colocar dentro del desecador durante el secado. |
+
+---
+
+### 3. 🟡 CURCUMINA (C₂₁H₂₀O₆)
+*La más problemática porque es muy coloreada y se degrada con la luz/alcalinidad.*
+
+| Material/Insumo Extras | Especificación | Función Crítica |
+| :--- | :--- | :--- |
+| **Acetona** | Grado HPLC | Disuelve muy bien la curcumina cruda (extraída de cúrcuma). |
+| **Éter de petróleo** (o Hexano) | Grado ACS | **Antisolvente**: se agrega gota a gota para precipitar los cristales puros. |
+| **Celite 545** | Grado analítico filtrante | **Indispensable**: la curcumina cruda tiene resinas pegajosas que tapan los filtros comunes. El celite retiene las resinas. |
+| **BHT (Butilhidroxitolueno)** | Grado alimentario/farmacéutico | **Antioxidante** (0.01% p/p) para evitar que la curcumina se oxide y se ponga marrón. |
+| **Metanol** | Grado HPLC | Único solvente que disuelve bien la curcumina para el análisis en HPLC. |
+| **Filtro de jeringa PTFE** | 0.22 µm | Resistente a solventes orgánicos (no usar PVDF ni Nylon porque se disuelven con acetona). |
+
+---
+
+### 4. 🍇 RESVERATROL (C₁₄H₁₂O₃)
+*El de mayor valor comercial, pero el más inestable al oxígeno y la luz.*
+
+| Material/Insumo Extras | Especificación | Función Crítica |
+| :--- | :--- | :--- |
+| **Acetato de etilo** | Grado ACS | Mejor solvente para recristalizar resveratrol (punto de ebullición ~77°C). |
+| **Ácido ascórbico (Vitamina C)** | Grado analítico | **Antioxidante sacrificial** (se añade al 0.1% para evitar que el resveratrol se polimerice por oxidación). |
+| **Nitrógeno gaseoso (N₂)** | Grado UHP (Ultra Alta Pureza) | **Gas inerte**: Se burbujea en la solución antes de filtrar para desplazar el oxígeno disuelto. |
+| **Parafilm "M"** | Rollo de laboratorio | Para sellar herméticamente el matraz durante el enfriamiento (evita entrada de humedad y oxígeno). |
+| **Papel aluminio** | Grado laboratorio | Envolver todo el matraz durante la cristalización (el resveratrol es **altamente fotosensible**, se degrada con luz visible). |
+| **Vial de vidrio ámbar de boca ancha** | Con cierre de rosca y junta de teflón | Para almacenar el producto final con atmósfera de nitrógeno. |
+
+---
+
+## 🧰 MATERIALES GENERALES *NO CONSIDERADOS* (Pero que necesitas sí o sí)
+
+Además de los específicos por sustancia, en tu tesis debes incluir estos **materiales de soporte** que aplican a cualquier proceso:
+
+| Material | Especificación | Para qué sirve |
+| :--- | :--- | :--- |
+| **Gradillas para matraces** | De metal o poliuretano | Para sostener los matraces durante el enfriamiento (evita vuelcos). |
+| **Pinzas de tres dedos** | Con forro de teflón | Para sujetar matraces a los soportes sin romper el vidrio. |
+| **Mangueras de silicona** | 6 mm de diámetro | Para conexiones de vacío y agua en el condensador. |
+| **Trampa de vacío** | Matraz kitasato con válvula | Para proteger la bomba de vacío de solventes evaporados. |
+| **Reactivo de Karl Fischer** | Comercial (hidrato de piridina) | Para medir humedad residual en el producto seco (si aspiras a grado farmacéutico). |
+| **Tubos capilares** | De vidrio, 0.5 mm | Para cargar la muestra y medir punto de fusión en el equipo. |
+
+---
+
+## 📊 TABLA RESUMEN: ¿Qué material extra necesitas SEGÚN tu sustancia?
+
+Si tu tesis se enfoca en **una sola**, aquí tienes la decisión rápida:
+
+| Tu Sustancia | Material Extra **Obligatorio** (no incluido en mi presupuesto base) | Material **Recomendado** |
+| :--- | :--- | :--- |
+| **Ácido Benzoico** | Carbón activado (por si acaso). | Celite (para filtrar más rápido). |
+| **Cafeína** | Cloroformo y Celite. | Gel de sílice para el desecador. |
+| **Curcumina** | **Celite 545 + Acetona + Éter de petróleo + BHT**. | Filtros PTFE 0.22 µm (evita que se tapen). |
+| **Resveratrol** | **Acetato de etilo + Nitrógeno gaseoso + Ácido ascórbico + Papel aluminio**. | Viales ámbar con junta de teflón. |
+
+---
+
+## 💰 ACTUALIZACIÓN DEL PRESUPUESTO (Costos extras)
+
+Si decides hacer **el más completo** (Resveratrol o Curcumina), el presupuesto de **reactivos y consumibles** sube ligeramente. Agrega estos costos a tu inversión inicial:
+
+| Insumo Extra (para los 4 compuestos) | Cantidad | Costo estimado (USD) |
+| :--- | :--- | :--- |
+| Celite 545 (1 kg) | 1 frasco | $35.00 |
+| BHT (100 g) | 1 frasco | $25.00 |
+| Ácido ascórbico (100 g) | 1 frasco | $20.00 |
+| Tubo de Nitrógeno (con regulador) | 1 cilindro portátil | $80.00 (recarga) |
+| Acetato de etilo (1 L) | 1 botella | $30.00 |
+| Cloroformo (1 L) | 1 botella | $45.00 |
+| Filtros PTFE 0.22 µm (x100) | 1 caja | $60.00 |
+| **TOTAL MATERIALES EXTRAS** | | **~$295.00 USD** |
+
+---
+
+## 🧠 ¿Cuál te recomiendo para tu tesis?
+
+- Si quieres **demostrar un proceso químico impecable**, usa **Ácido Benzoico o Cafeína** (son los más documentados, baratos y seguros).
+- Si quieres **demostrar alto valor comercial y complejidad técnica**, usa **Resveratrol** (justifica perfectamente el uso de HPLC, N₂ y antioxidantes, y sus márgenes de ganancia son enormes según tu documento de precios 2025).
+
+---
+
+**¿Quieres que reescriba el apartado 4 (Materiales) del documento anterior incluyendo TODA esta tabla comparativa y los costos extras, para que solo lo copies y pegues en tu tesis?** O dime específicamente **cuál de las 4 sustancias** es tu objeto de estudio y te preparo una lista de materiales hiperdetallada (con códigos de catálogo Sigma-Aldrich o Merck) para que se vea ultra profesional.
 
 **Ahora sí: con esta lista, ningún experto te va a reprobar**, porque demuestras que conoces la **química de los materiales**, no solo los nombres bonitos. 
 
